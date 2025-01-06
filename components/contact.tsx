@@ -1,6 +1,6 @@
 import { bricolageGrotesque } from "@/fonts";
 import { cn } from "@/lib/utils";
-import { Globe, Mail, MapPin, PhoneCall } from "lucide-react";
+import {  Mail, MapPin, PhoneCall } from "lucide-react";
 import Link from "next/link";
 
 export const Contact = () => {

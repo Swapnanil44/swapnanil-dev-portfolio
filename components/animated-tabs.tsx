@@ -14,7 +14,7 @@ type AnimatedTabsProps = {
 };
 
 export function AnimatedTabs({ tabs }: AnimatedTabsProps) {
-  let [activeTab, setActiveTab] = useState(tabs[0].id);
+  const [activeTab, setActiveTab] = useState(tabs[0].id);
 
   return (
     <div className="flex flex-col gap-6">

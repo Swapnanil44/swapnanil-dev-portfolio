@@ -3,7 +3,6 @@ import Link from "next/link";
 import { PROJECTS } from "@/constants";
 import { bricolageGrotesque } from "@/fonts";
 import { cn } from "@/lib/utils";
-import { Github } from "lucide-react";
 
 export const Projects = () => {
   return (
