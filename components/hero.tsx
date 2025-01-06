@@ -1,6 +1,6 @@
 import { bricolageGrotesque } from "@/fonts";
 import { cn } from "@/lib/utils";
-import { CodeXml, Minus } from "lucide-react";
+import { CodeXml} from "lucide-react";
 
 export const Hero = () => {
   return (
