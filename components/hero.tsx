@@ -11,15 +11,11 @@ export const Hero = () => {
       </h1>
       <div className="flex flex-col gap-2">
         <h5 className="font-semibold text-xl">
-          I make Fullstack Web Apps when I get bored.
+        Turning coffee into code and bugs into features, one line at a time!
         </h5>
-        <small className="opacity-80">
-          I had the opportunity to work with some of the best developers in the
-          industry.
-        </small>
         <p className="text-sm w-2/3 opacity-80">
-          I think about every detail in my work - from idea and analytics to
-          prototype and visual design.
+         I'm <b>Swapnanil Majumdar</b>, a passionate fullstack web developer specializing in building dynamic and user-friendly web applications.
+         As a fresher, I bring enthusiasm, a love for learning, and a knack for tackling challenges head-on.
         </p>
       </div>
     </div>
