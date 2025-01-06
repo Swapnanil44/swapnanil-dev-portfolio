@@ -14,7 +14,7 @@ export const Hero = () => {
         Turning coffee into code and bugs into features, one line at a time!
         </h5>
         <p className="text-sm w-2/3 opacity-80">
-         I'm <b>Swapnanil Majumdar</b>, a passionate fullstack web developer specializing in building dynamic and user-friendly web applications.
+         I&apos;m <b>Swapnanil Majumdar</b>, a passionate fullstack web developer specializing in building dynamic and user-friendly web applications.
          As a fresher, I bring enthusiasm, a love for learning, and a knack for tackling challenges head-on.
         </p>
       </div>
